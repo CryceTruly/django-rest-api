@@ -24,9 +24,13 @@ A todo app with user authentication
    pip install virtualenv
    virtualenv venv_name
    ```
-- activate it
+- activate it 
 ```cmd
    source venv_name/bin/activate
+   ```
+- activate Windows
+```cmd
+   venv_name/bin/activate.bat
    ```
 - install dependencies from the requirements.txt file
 ```cmd
