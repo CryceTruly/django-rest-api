@@ -28,7 +28,7 @@ A todo app with user authentication
 ```cmd
    source venv_name/bin/activate
    ```
-- activate Windows
+- or activate Windows
 ```cmd
    venv_name/bin/activate.bat
    ```
